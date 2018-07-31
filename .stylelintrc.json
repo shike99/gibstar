@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "stylelint-scss"
+  ],
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "value-list-comma-newline-after": "always-multi-line",
+    "declaration-colon-newline-after": "always-multi-line",
+    "scss/dollar-variable-colon-space-after": "always"
+  }
+}
